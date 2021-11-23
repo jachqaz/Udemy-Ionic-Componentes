@@ -19,6 +19,7 @@ export class InicioPage implements OnInit {
     {icon: 'beaker-outline', name: 'Avatar', redirectTo: '/avatar'},
     {icon: 'radio-button-off-outline', name: 'Button', redirectTo: '/button'},
     {icon: 'card-outline', name: 'Cards', redirectTo: '/card'},
+    {icon: 'checkmark-circle-outline', name: 'Checks', redirectTo: '/check'},
   ];
 
   constructor() {
