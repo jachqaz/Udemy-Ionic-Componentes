@@ -20,6 +20,7 @@ export class InicioPage implements OnInit {
     {icon: 'radio-button-off-outline', name: 'Button', redirectTo: '/button'},
     {icon: 'card-outline', name: 'Cards', redirectTo: '/card'},
     {icon: 'checkmark-circle-outline', name: 'Checks', redirectTo: '/check'},
+    {icon: 'calendar-outline', name: 'DateTime', redirectTo: '/date-time'},
   ];
 
   constructor() {
